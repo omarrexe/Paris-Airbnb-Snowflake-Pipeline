@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data files (Never upload raw data to GitHub)
+*.csv
+*.json
+*.gz
+*.zip
+
+# Credentials and Config
+config.py
+credentials.txt
+.env
+*_credentials.sql
+secrets.sql
+
+# Logs
+*.log
