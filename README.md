@@ -106,14 +106,4 @@ The Gold Layer answers critical questions for investors and tourism managers:
 * **Language:** SQL (Advanced DDL, DML, Window Functions)
 * **Concepts:** Data Modeling (Star Schema), ELT, Data Cleaning, Data Quality, Cloud Storage.
 
----
 
-## 🔮 Next Steps
-
-* **Orchestration:** Automate with Apache Airflow for daily pipeline runs
-* **Testing & CI/CD:** Migrate to dbt for version control and automated testing
-* **Visualization:** Build interactive Power BI dashboards for stakeholder insights
-
----
-
-⭐ **Found this helpful? Star this repository and connect with me on LinkedIn!**
