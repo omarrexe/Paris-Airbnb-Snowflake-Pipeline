@@ -83,7 +83,7 @@ To optimize query performance, I designed a dimensional model:
 
 The Gold Layer answers critical questions for investors and tourism managers:
 
-* **Pricing Strategy:** Identified *Élysée* and *Louvre* as the highest-yield districts based on the estimated price model.
+* **Pricing Strategy:** Identified *Élysée* and *Temple* as the highest-yield districts based on the estimated price model.
 * **Demand Hotspots:** Correlated review volume with listing density to identify the most popular tourist zones.
 * **Market Segmentation:** Analyzed the ratio of "Entire Homes" vs. "Private Rooms" to understand the market composition.
 * **Revenue Potential:** Calculated annual revenue projections per neighborhood using estimated pricing and industry-standard occupancy rates.
